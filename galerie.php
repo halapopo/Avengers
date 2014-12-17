@@ -14,6 +14,7 @@
 <body>
 <div class="conte">
   <?php include("navigation.php") ?>
+   
     <div class="cont">
     <img src="fond.jpg">
     <script type="text/javascript" src="js/grossi.js"></script>
