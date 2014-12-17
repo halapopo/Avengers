@@ -1,6 +1,7 @@
 body{
 	background-color: black;
 	background-image:url(../img/fond.jpg);
+   background-attachment: fixed;
 }
 .cont{
 	width: 980px;

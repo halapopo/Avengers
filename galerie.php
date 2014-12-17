@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8">
@@ -7,7 +7,8 @@
     <link rel="stylesheet" type="text/css" href="css/styles.css">
     <link href='http://fonts.googleapis.com/css?family=Righteous' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="css/style.css">
-
+    <link rel="stylesheet" href="css/annexes.css">
+    
 </head>
 
 <body>
@@ -291,6 +292,11 @@
     </div>
     </div> <!-- fin du cont -->
     <!-- Jssor Slider End -->
+    <?php include('galleryAnnex.php');?>
     </div>
+    
+    <script src="js/annexe.js" type="text/javascript"></script>
+<script src="http://code.jquery.com/jquery-1.6.2.min.js"></script>
+
 </body>
 </html>

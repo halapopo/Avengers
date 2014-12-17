@@ -87,6 +87,7 @@ une incroyable aventure et une haletante course contre le temps… </p>
 <!--        End compteur-->
         
 <!--        SCRIPT-->
+
  <script>$('#scrollButton').ScrollTo('#ynopsish3');</script>
     <script type="text/javascript" src="js/jquery-1.6.4.js"></script>
     
