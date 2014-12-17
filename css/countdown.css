@@ -1,0 +1,38 @@
+/*COMPTEUR DE TEMPS */
+
+
+ul#countdown {
+	margin: 80px auto;
+	padding: 0;
+	position: absolute;
+    top: 70%;
+    right: 50%;
+    margin-right: -190px;
+    position: fixed;
+    
+}
+ul#countdown li{
+	background-color: rgba(145, 22, 22, 0.3);
+	border: 1px solid rgba(255, 255, 255, 0.46);
+	color: #fff;
+	display: inline;
+	float: left;
+	font: normal bold 36px Arial;
+	letter-spacing: 5px;
+	margin-left: 5px;
+	text-align: center;
+	width: 90px;
+	border-radius: 6px;
+	box-shadow: 0 0 3px #777;
+}
+ul#countdown span {
+	padding-left: 5px;
+    font-family: 'Slabo 27px', arial , serif;
+}
+ul#countdown  p.timeRefDays, ul#countdown  p.timeRefHours, ul#countdown  p.timeRefMinutes, ul#countdown  p.timeRefSeconds{
+	
+	letter-spacing: 0;
+	margin: 0;
+	padding-bottom: 5px;
+    font: 15px 'Slabo 27px', serif;
+}
