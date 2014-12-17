@@ -60,7 +60,7 @@ header nav ul li{
 
 header nav ul li a{
 	text-decoration: none;
-	font-family:'avengeance_heroic_avengerRg','Righteous', cursive;
+	font-family:'Righteous', cursive;
 	text-transform: uppercase;
 	color:#fff;
 	letter-spacing: 5px;
@@ -70,10 +70,10 @@ header nav ul li a{
 
 header nav ul li:not(#logoNav) a:hover{
 	color:#fff;
-	font-size: 1.2em;
+	font-size: 0.8em;
 	border-bottom: 3px solid #fff;
 	padding-bottom: 10px;
-    transition: All 0.2s ease;
+    transition: All 0.5s ease;
    
 }
 

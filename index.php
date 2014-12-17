@@ -9,7 +9,7 @@
     <link rel="stylesheet" type="text/css" href="css/nav.css">
     
     <link rel="stylesheet" type="text/css" href="css/countdown.css">
-  <link href='http://fonts.googleapis.com/css?family=Righteous' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Righteous' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Oswald:400,300,700' rel='stylesheet' type='text/css'>
 </head>
 
@@ -36,7 +36,7 @@
        
         
 <!--            annonce de temps-->
-            <h2 id="sortie">Dans les salles dans : </h2>
+            <h2 id="sortie">Bientôt dans vos salles : </h2>
             
 <!--             Compteur de Temps-->
         
