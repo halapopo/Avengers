@@ -15,7 +15,8 @@
 
 <body>
 <!--           Container-->
-       <div class="landingPage">
+       <div class="landingPage"> 
+        
        
        <?php include('navigation.php');?>
          
