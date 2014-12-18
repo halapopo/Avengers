@@ -4,6 +4,7 @@
 	<meta charset="UTF-8">
 	<title>Black Widow</title>
 	<link rel="stylesheet" type="text/css" href="../css/personnages.css">
+	<link rel="stylesheet" href="../css/style-page-persos.css">
 	<link href='http://fonts.googleapis.com/css?family=Oswald:400,300,700' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" type="text/css" href="css/nav.css">
 	<link rel="stylesheet" type="text/css" href="css/footer.css">

@@ -13,7 +13,7 @@
 <body>
 	<div id="container"> <!-- debut container -->
 	 <?php include('navigation.php');?>
-	<section>
+	<section id="cercle">
 	<hr>
 		<article class="rang1"> <!-- ligne numero 1 des perso -->
 			<ul>
@@ -37,16 +37,16 @@
 	</section>
 	<br/>
 	<section id="personnages">
-        <div class=""><?php include('personnages pages/iron-man.php');?></div>
-        <div class=""><?php include('personnages pages/captain-america.php');?></div>
-        <div class=""><?php include('personnages pages/hulk.php');?></div>
-        <div class=""><?php include('personnages pages/thor.php');?></div>
-        <div class=""><?php include('personnages pages/nick-fury.php');?></div>
-        <div class=""><?php include('personnages pages/hawk-eye.php');?></div>
-        <div class=""><?php include('personnages pages/black-widow.php');?></div>
-        <div class=""><?php include('personnages pages/scarlet-witch.php');?></div>
-        <div class=""><?php include('personnages pages/vif-argent.php');?></div>
-        <div class=""><?php include('personnages pages/ultron.php');?></div>
+        <div id=""><?php include('personnages pages/iron-man.php');?></div>
+        <div id=""><?php include('personnages pages/captain-america.php');?></div>
+        <div id=""><?php include('personnages pages/hulk.php');?></div>
+        <div id=""><?php include('personnages pages/thor.php');?></div>
+        <div id=""><?php include('personnages pages/nick-fury.php');?></div>
+        <div id=""><?php include('personnages pages/hawk-eye.php');?></div>
+        <div id=""><?php include('personnages pages/black-widow.php');?></div>
+        <div id=""><?php include('personnages pages/scarlet-witch.php');?></div>
+        <div id=""><?php include('personnages pages/vif-argent.php');?></div>
+        <div id=""><?php include('personnages pages/ultron.php');?></div>
 	</section>
 	</div><!-- fin container -->
 </body>

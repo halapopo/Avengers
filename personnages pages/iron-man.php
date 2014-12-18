@@ -7,11 +7,12 @@
 	<link href='http://fonts.googleapis.com/css?family=Oswald:400,300,700' rel='stylesheet' type='text/css'>
 		<link rel="stylesheet" type="text/css" href="css/nav.css">
 	<link rel="stylesheet" type="text/css" href="css/footer.css">
+	<link rel="stylesheet" href="../css/style-page-persos.css">
 </head>
 <body>
 
 
-	<section>
+	<section class="iron-man">
 		<h2>Iron Man</h2>
 		<h3>Tony Stark</h3>
 		<h4>"Génie, milliardaire, playboy, philanthrope"</h4>

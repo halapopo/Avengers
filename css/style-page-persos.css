@@ -53,3 +53,15 @@ section article ul li img:hover {
 section article .radius {
 	border: #000;
 }
+
+
+section#personnages{
+    margin-top: 50%;
+}
+section#personnages div section{
+    
+    margin-top:50px;
+    display: block;
+    width: 100%;
+    
+}
