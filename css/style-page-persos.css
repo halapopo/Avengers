@@ -1,0 +1,46 @@
+
+
+section article {
+    margin-top: 100px;
+}
+
+section h2 {
+	text-transform: uppercase;
+	text-align: center;
+}
+
+hr {
+	box-shadow: rgba(0,0,0, 0.6)
+}
+
+section article ul li {
+	display: inline-block;
+	float: left;
+	margin-top: 30px;
+	margin-right: 15px;
+}
+
+
+section article ul li a {
+	text-decoration: none;
+	text-transform: uppercase;
+	color: red;
+	font-family: Osvald, arial, sans-serif;
+	text-align: center;
+}
+
+section article ul li img {
+	border:  3px solid #fff;
+	border-radius: 50%;	
+	height: 180px;
+}
+
+section article ul li img:hover {
+	background: red;
+	opacity: 0.6;
+
+}
+
+section article .radius {
+	border: #000;
+}

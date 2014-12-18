@@ -112,8 +112,8 @@ div#content {
     background-color:rgba(65, 2, 2, 0.9);
     position: relative;
     z-index: 1;
-    color:rgba(255, 255, 255, 0.51)
-	
+    color:rgba(255, 255, 255, 0.51);
+	overflow:auto;
 }
 
 
@@ -140,6 +140,7 @@ div#synopsis{
 }
 
 div#synopsis p{
+    font-family: 'Righteous', cursive;
     text-align: left;
     line-height: 30px;
     font-weight: 300;

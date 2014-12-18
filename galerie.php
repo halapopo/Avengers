@@ -1,12 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta charset="utf-8">
+     <meta charset="UTF-8" HTTP-EQUIV="Page-Enter" CONTENT="RevealTrans(Duration=15,Transition=8)">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Image Gallery Theme - Jssor Slider, Carousel, Slideshow with Javascript Source Code</title>
+    
+    <title>avengers</title>
     <link rel="stylesheet" type="text/css" href="css/styles.css">
     <link href='http://fonts.googleapis.com/css?family=Righteous' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/nav.css">
+    <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/annexes.css">
     
 </head>
