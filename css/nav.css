@@ -9,11 +9,15 @@ header{
     z-index: 10;
     
 } 
-header li#logoNav{
+header li#logoNav a{
 	width:45px;
 	height:45px;
 
-padding-top: 15px;
+
+
+	margin-top: 15px;
+
+
 }
 
 header li#logoNav:hover{
@@ -41,7 +45,7 @@ header nav ul li{
 	margin-right: 40px;
 	text-align: center;
     vertical-align: bottom;
-    padding-top: 10px;
+
     box-sizing: border-box;
 }
 

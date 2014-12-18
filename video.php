@@ -5,7 +5,7 @@
     <title>Avengers</title>
     <link rel="stylesheet" href="css/nav.css">
     <link rel="stylesheet" href="css/styles.css">
-        <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/style.css">
    
     <link rel="stylesheet" type="text/css" href="css/countdown.css">
   	<link href='http://fonts.googleapis.com/css?family=Righteous' rel='stylesheet' type='text/css'>

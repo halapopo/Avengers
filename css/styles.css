@@ -145,6 +145,8 @@ div#synopsis p{
     line-height: 30px;
     font-weight: 300;
     height: auto;
+    font-family: 'Righteous', sans-serif;
+    font-size: 15px;
    
     
 }

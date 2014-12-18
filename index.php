@@ -11,6 +11,10 @@
     <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="css/animate.css">
     <link rel="stylesheet" type="text/css" href="css/nav.css">
+
+
+    <link rel="stylesheet" type="text/css" href="css/footer.css">
+
     <link rel="stylesheet" type="text/css" href="css/countdown.css">
     <link href='http://fonts.googleapis.com/css?family=Righteous' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Oswald:400,300,700' rel='stylesheet' type='text/css'>
@@ -82,10 +86,14 @@ d’éradiquer l’espèce humaine.
 Afin d’empêcher celui-ci d’accomplir ses sombres desseins, 
 des alliances inattendues se scellent, les entraînant dans 
 une incroyable aventure et une haletante course contre le temps… </p>
-       </div>      
+       </div>  
+        
         <img class="captain"src="img/captain.png" alt="" >
 
        <img class="thor"src="img/Thor-TDWpromo.png" alt="" >
+       
+        <div><?php include('footer.php') ?></div>
+       
     </div>
 <!--        End compteur-->
         
@@ -101,5 +109,17 @@ une incroyable aventure et une haletante course contre le temps… </p>
         <script src="js/counterActivation.js"></script>
 <!--       -->
         <script src="//code.jquery.com/ui/1.11.2/jquery-ui.js"></script>
+
+    <script type="text/javascript" src="js/jquery-1.6.4.js"></script>
+    
+    <script type="text/javascript" src="js/javascript.js"></script>
+<!--    COMPTEUR DE TEMPS-->
+    <script type="text/javascript" src="js/countdown.js"></script>
+    
+	<script src="js/counterActivation.js"></script>
+	
+	<script type="text/javascript" src="js/jquery-scrollto.js"></script>
+
 </body>
+   
 </html>
