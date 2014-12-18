@@ -12,11 +12,12 @@ section h2 {
 
 article.rang1 {
    display: block;
-    width: 990px;
+    
 }
 section article ul li {
 	display: inline-block;
 	float: left;
+    padding:2%;
 	margin-top: 30px;
 	margin-right: 15px;
 }
@@ -25,12 +26,12 @@ section article ul li {
 section article ul li a {
 	text-decoration: none;
 	text-transform: uppercase;
-	color: red;
-	font-family: Osvald, arial, sans-serif;
+	color: #af8383;
+	font: normal 14pt 'Righteous', sans-serif;
 	text-align: center;
 }
 
-section article ul li img {
+section article ul li img{
 	border:  3px solid #fff;
 	border-radius: 50%;	
 	height: 180px;
