@@ -113,7 +113,7 @@ div#content {
     position: relative;
     z-index: 1;
     color:rgba(255, 255, 255, 0.51);
-	overflow:auto;
+/*	overflow:auto;*/
 }
 
 
