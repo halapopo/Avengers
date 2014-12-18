@@ -17,7 +17,7 @@ ul#countdown li{
 	color: #fff;
 	display: inline;
 	float: left;
-	font: normal bold 36px Arial;
+	font: normal 26px Arial;
 	letter-spacing: 5px;
 	margin-left: 5px;
 	text-align: center;
@@ -34,5 +34,5 @@ ul#countdown  p.timeRefDays, ul#countdown  p.timeRefHours, ul#countdown  p.timeR
 	letter-spacing: 0;
 	margin: 0;
 	padding-bottom: 5px;
-    font: 15px 'Righteous', cursive;
+    font: 14px 'arial', cursive;
 }
