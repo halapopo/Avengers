@@ -9,10 +9,10 @@ header{
     z-index: 10;
     
 } 
-header  nav li#logoNav a{
+header  nav li#logoNav {
 	width:45px;
 	height:45px;
-	padding-top: 25px;
+	padding-top: 15px;
 
 
 }
