@@ -74,7 +74,7 @@
     <div id="content">
         
         <div id="synopsis">
-        <h3 id="synopsish3">SYNOPSIS</h3>
+        <h3 id="synopsish3">Le 29 Avril 2015, </h3>
         <p>Alors que Tony Stark tente de relancer 
 un programme de maintien de la paix jusque-là suspendu, 
 les choses tournent mal et les super-héros Iron Man, 
@@ -110,8 +110,7 @@ une incroyable aventure et une haletante course contre le temps… </p>
 <!--       -->
         <script src="//code.jquery.com/ui/1.11.2/jquery-ui.js"></script>
 
-    <script type="text/javascript" src="js/jquery-1.6.4.js"></script>
-    
+     
     <script type="text/javascript" src="js/javascript.js"></script>
 <!--    COMPTEUR DE TEMPS-->
     <script type="text/javascript" src="js/countdown.js"></script>

@@ -9,10 +9,11 @@ section h2 {
 	text-align: center;
 }
 
-hr {
-	box-shadow: rgba(0,0,0, 0.6)
-}
 
+article.rang1 {
+   display: block;
+    width: 990px;
+}
 section article ul li {
 	display: inline-block;
 	float: left;

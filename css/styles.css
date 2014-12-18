@@ -119,7 +119,7 @@ div#content {
 
 div#synopsis{
     position: absolute;
-    top: 30%;
+    top: 40%;
     right: 29%;
     width: 45%;
     height: auto;
@@ -129,17 +129,18 @@ div#synopsis{
     background: rgba(60, 2, 2, 0.96);
 }
 #synopsis h3{
+    padding-top: 10px;
+    width: 100%;
     background: rgba(38, 2, 2, 0.92);
     height: 50px;
-    margin: 30px;
     text-align: center;
-    padding-top: 10px;
     box-sizing: border-box;
-    font-family: avengeance_heroic_avengerbold;
+    font-family: 'Righteous', sans-serif;
     letter-spacing: 5px;
 }
 
 div#synopsis p{
+    display: block;
     font-family: 'Righteous', cursive;
     text-align: left;
     line-height: 30px;
