@@ -17,7 +17,7 @@
         <div class="teaser">
         <h2>Bande-annonce: Avengers l'Ere d'Ultron</h2>
         
-        <video id="teaser" controls height="74%" width="81%">
+        <video id="teaser" controls height="74%" width="82%">
             <source src="avengers_2/avengers_2.ogv" type='video/ogg; codecs="theora, vorbis"'/>
             <source src="avengers_2/avengers_2.webm" type='video/webm' >
         </video>
