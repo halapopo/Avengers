@@ -137,17 +137,18 @@ div#synopsis{
     box-sizing: border-box;
     font-family: 'Righteous', sans-serif;
     letter-spacing: 5px;
+    text-transform: uppercase;
 }
 
 div#synopsis p{
     display: block;
-    font-family: 'Righteous', cursive;
     text-align: left;
     line-height: 30px;
-    font-weight: 300;
+    font-weight: 200;
     height: auto;
-    font-family: 'Righteous', sans-serif;
+    font-family: 'helvetica', sans-serif;
     font-size: 15px;
+    text-align: center;
    
     
 }

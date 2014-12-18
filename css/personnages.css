@@ -1,0 +1,255 @@
+/**
+ * Eric Meyer's Reset CSS v2.0 (http://meyerweb.com/eric/tools/css/reset/)
+ * http://cssreset.com
+ */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+
+
+body{
+	background: #000;
+	text-align: right;
+}
+
+.scarlet{
+	background: #000;
+}
+
+section.iron-man{
+	background:url('../img/persos/iron-man.jpg') no-repeat;
+	height:506px;
+	padding-right: 185px;
+	position: relative;
+}
+
+section.black-widow{
+	background:url('../img/persos/black-widow.jpg') no-repeat;
+	height:506px;
+	padding-right: 185px;
+	position: relative;
+}
+
+section.nick-fury{
+	background:url('../img/persos/fury.jpg') no-repeat;
+	height:506px;
+	padding-right: 185px;
+	position: relative;
+}
+
+section.hulk{
+	background:url('../img/persos/hulk.jpg') no-repeat;
+	height:506px;
+	padding-right: 185px;
+	position: relative;
+}
+
+section.thor{
+	background:url('../img/persos/thor.jpg') no-repeat;
+	height:506px;
+	padding-right: 185px;
+	position: relative;	
+}
+
+section.captain-america{
+	background:url('../img/persos/captain-america.jpg') no-repeat;
+	height:506px;
+	padding-right: 185px;
+	position: relative;	
+}
+
+section.hawk-eye{
+	background:url('../img/persos/hawkeye.jpg') no-repeat;
+	height:506px;
+	padding-right: 185px;
+	position: relative;
+}
+
+section.scarlet-witch{
+	background:url('../img/persos/scarlet-witch.jpg') no-repeat;
+	height:506px;
+	padding-right: 185px;
+	position: relative;
+}
+
+section.vif-argent{
+	background:url('../img/persos/vif-argent.jpg') no-repeat;
+	height:506px;
+	padding-right: 185px;
+	position: relative;
+}
+
+section.ultron{
+	background:url('../img/persos/ultron.jpg') no-repeat;
+	height:506px;
+	padding-right: 185px;
+	position: relative;
+}
+
+h2{
+	color:#a72126;
+	font-family: 'Oswald:300', sans-serif;
+	font-size: 50px;
+	letter-spacing: -1px;
+	padding-top: 25px;
+	margin-bottom: 25px;
+	text-transform: uppercase;
+}
+
+h3{
+	color:#fff;
+	font-family: 'Oswald:300', sans-serif;
+	font-size: 30px;
+	text-transform:uppercase;
+}
+
+h4{
+	color:#fff;
+	font-family: 'Oswald:300', sans-serif;
+	font-size: 20px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+p{
+	color:#fff;
+	font-family: 'Oswald:300', sans-serif;
+	font-size: 14px;
+}
+
+img{
+	margin-top: 25px;
+	margin-left: 25px;
+}
+
+span{
+	color:#fff;
+	font-family: 'Oswald:300', sans-serif;
+}
+
+.genie{
+	position:absolute;
+	top:385px;
+	right:320px;
+}
+
+.armure{
+	position:absolute;
+	top:385px;
+	right:200px;
+}
+
+.agilite{
+	position:absolute;
+	top:385px;
+	right:200px;
+}
+
+.agilite-hawk{
+	position:absolute;
+	top:375px;
+	right:200px;
+}
+
+.strategie{
+	position:absolute;
+	top:330px;
+	right:195px;
+}
+
+.super-force{
+	position:absolute;
+	top:385px;
+	right:181px;
+}
+
+.force{
+	position:absolute;
+	top:413px;
+	right:322px;
+}
+
+.force-america{
+	position:absolute;
+	top:413px;
+	right:322px;
+}
+
+.force-ultron{
+	position:absolute;
+	top:345px;
+	right:205px;
+}
+
+.marteau{
+	position:absolute;
+	top:413px;
+	right:196px;
+}
+
+.bouclier{
+	position:absolute;
+	top:413px;
+	right:196px;
+}
+
+.arc{
+	position:absolute;
+	top:375px;
+	right:330px;
+}
+
+.magie{
+	position:absolute;
+	top:325px;
+	right:205px;
+}
+
+.vitesse{
+	position:absolute;
+	top:325px;
+	right:205px;
+}
+

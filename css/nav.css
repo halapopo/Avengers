@@ -58,7 +58,7 @@ header nav ul li a{
 
 header nav ul li:not(#logoNav) a:hover{
 	color:#fffbfb;
-	font-size: 1.2em;
+	font-size: 0.8em;
 	border-bottom: 3px solid #fff;
 	padding-bottom: 10px;
     transition: All 0.5s ease;

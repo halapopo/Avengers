@@ -1,8 +1,8 @@
 <footer>
 <div class="footer">
 	<div class="term">
+		<a href="marvel.com"><img src="img/footer/marvel-logo.png" alt="Marvel"></a>
 		<ul>
-			<a href="marvel.com"><img src="img/footer/marvel-logo.png" alt="Marvel"></a>
 			<li><a href="">Contact</a></li>
 			<li><a href="">Mention légale</a></li>
 			<li><a href="">2014 Marvel &copy; </a></li>

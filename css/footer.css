@@ -15,7 +15,7 @@
 
 .term ul li {
     display: inline-block;
-    margin:5px 10px 10px 5px;
+    margin:13px 10px 10px 5px;
     vertical-align: center;
 }
 
@@ -55,8 +55,8 @@ h3 {
     height:50px;
     width:100px;
     position:absolute;
-    top: -15px;
-    left: 0px;
+    top: -7px;
+    left: 10px;
 }
 
 
@@ -66,7 +66,7 @@ h3 {
 
 .social {
     float: right;
-    margin: 20px 10px 0px 0px ;
+    margin: 30px 10px 0px 0px ;
 }
 
 .social ul {
@@ -79,6 +79,6 @@ h3 {
 }
 
 .social ul li a img{
-    width:50px;
-    height:50px;
+    width:32px;
+    height:32px;
 }
