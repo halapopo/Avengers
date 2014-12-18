@@ -8,6 +8,7 @@
     <link href='http://fonts.googleapis.com/css?family=Righteous' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="css/nav.css">
 	  <link href='http://fonts.googleapis.com/css?family=Righteous' rel='stylesheet' type='text/css'>
+	  <link rel="stylesheet" type="text/css" href="css/personnages.css">
     </head>
 <body>
 	<div id="container"> <!-- debut container -->
@@ -33,6 +34,19 @@
 			</ul>
 		</article> <!-- ligne numero 1 des perso -->
 	
+	</section>
+	<br/>
+	<section id="personnages">
+        <div class=""><?php include('personnages pages/iron-man.php');?></div>
+        <div class=""><?php include('personnages pages/captain-america.php');?></div>
+        <div class=""><?php include('personnages pages/hulk.php');?></div>
+        <div class=""><?php include('personnages pages/thor.php');?></div>
+        <div class=""><?php include('personnages pages/nick-fury.php');?></div>
+        <div class=""><?php include('personnages pages/hawk-eye.php');?></div>
+        <div class=""><?php include('personnages pages/black-window.php');?></div>
+        <div class=""><?php include('personnages pages/scarlet-witch.php');?></div>
+        <div class=""><?php include('personnages pages/vif-argent.php');?></div>
+        <div class=""><?php include('personnages pages/ultron.php');?></div>
 	</section>
 	</div><!-- fin container -->
 </body>

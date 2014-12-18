@@ -3,14 +3,14 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Black Widow</title>
-	<link rel="stylesheet" type="text/css" href="css/personnages.css">
+	<link rel="stylesheet" type="text/css" href="../css/personnages.css">
 	<link href='http://fonts.googleapis.com/css?family=Oswald:400,300,700' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" type="text/css" href="css/nav.css">
 	<link rel="stylesheet" type="text/css" href="css/footer.css">
 </head>
 <body>
 
-	<?php include('navigation.php') ?>
+	
 	
 	<section class="black-widow">
 		<h2>Black Widow</h2>
@@ -22,12 +22,7 @@
 		<p>Elle travaille désormais en tant qu'agent du Shield,</p>
 		<p>mais a beaucoup à cacher.</p>
 
-		<img src="img/persos/agilite.png" alt="Agilité">
+		<img src="../img/persos/agilite.png" alt="Agilité">
 		<span class="agilite">Agilité</span>
 
 	</section>
-
-	<?php include('footer.php') ?>
-	
-</body>
-</html>

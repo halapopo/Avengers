@@ -27,7 +27,3 @@
 		<span class="force-ultron">Force</span>
 	</section>
 	
-	<?php include('footer.php') ?>
-
-</body>
-</html>

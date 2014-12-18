@@ -1,17 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>Captain America</title>
-	<link rel="stylesheet" type="text/css" href="css/personnages.css">
-	<link href='http://fonts.googleapis.com/css?family=Oswald:400,300,700' rel='stylesheet' type='text/css'>
-	<link rel="stylesheet" type="text/css" href="css/nav.css">
-	<link rel="stylesheet" type="text/css" href="css/footer.css">
-</head>
-<body>
 
-	<?php include('navigation.php') ?>
-	
 	<section class="captain-america">
 		<h2>Captain America</h2>
 		<h3>Steve Rogers</h3>
@@ -29,7 +16,3 @@
 		<span class="bouclier">Bouclier</span>
 	</section>
 	
-	<?php include('footer.php') ?>
-
-</body>
-</html>

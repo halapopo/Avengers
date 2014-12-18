@@ -3,14 +3,13 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Document</title>
-	<link rel="stylesheet" type="text/css" href="css/personnages.css">
+	<link rel="stylesheet" type="text/css" href="../css/personnages.css">
 	<link href='http://fonts.googleapis.com/css?family=Oswald:400,300,700' rel='stylesheet' type='text/css'>
 		<link rel="stylesheet" type="text/css" href="css/nav.css">
 	<link rel="stylesheet" type="text/css" href="css/footer.css">
 </head>
 <body>
 
-	<?php include('navigation.php'); ?>
 
 	<section>
 		<h2>Iron Man</h2>
@@ -21,13 +20,9 @@
 		<p>pour sauver sa vie et échapper à ses geôliers.</p>
 		<p>Il utilise désormais son argent et son intelligence pour</p>
 		<p>rendre le monde meilleur en tant que Iron Man.</p>
-		<img src="img/persos/genie.png" alt="Génie">
-		<img src="img/persos/armure.png" alt="Armure"></br>
+		<img src="../img/persos/genie.png" alt="Génie">
+		<img src="../img/persos/armure.png" alt="Armure"><br />
 		<span class="genie">Génie</span>
 		<span class="armure">Armure</span>
 	</section>
 
-	<?php include('footer.php') ?>
-
-</body>
-</html>

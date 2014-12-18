@@ -3,15 +3,13 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Thor</title>
-	<link rel="stylesheet" type="text/css" href="css/personnages.css">
+	<link rel="stylesheet" type="text/css" href="../css/personnages.css">
 	<link href='http://fonts.googleapis.com/css?family=Oswald:400,300,700' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" type="text/css" href="css/nav.css">
 	<link rel="stylesheet" type="text/css" href="css/footer.css">
 </head>
 <body>
 
-	<?php include('navigation.php') ?>
-	
 	<section class="thor">
 		<h2>Thor</h2>
 		<h3>Thor Odinson</h3>
@@ -24,13 +22,9 @@
 		<p>mais a choisi de défendre les humains,</p>
 		<p>même si pour cela il a dù combattre son propre frère, Loki.</p>
 
-		<img src="img/persos/force.png" alt="Force">
-		<img src="img/persos/marteau.png" alt="Marteau">
+		<img src="../img/persos/force.png" alt="Force">
+		<img src="../img/persos/marteau.png" alt="Marteau">
 		<span class="force">Force</span>
 		<span class="marteau">Marteau</span>
 	</section>
 	
-	<?php include('footer.php') ?>
-
-</body>
-</html>

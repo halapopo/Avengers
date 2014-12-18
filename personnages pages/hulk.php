@@ -3,14 +3,14 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Hulk</title>
-	<link rel="stylesheet" type="text/css" href="css/personnages.css">
+	<link rel="stylesheet" type="text/css" href="../css/personnages.css">
 	<link href='http://fonts.googleapis.com/css?family=Oswald:400,300,700' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" type="text/css" href="css/nav.css">
 	<link rel="stylesheet" type="text/css" href="css/footer.css">
 </head>
 <body>
 
-	<?php include('navigation.php') ?>
+	
 	
 	<section class="hulk">
 		<h2>Hulk</h2>
@@ -22,9 +22,7 @@
 		<p>Il essaie de contenir le colosse en lui,</p>
 		<p>d'une puissance presque illimitée.</p>
 
-		<img src="img/persos/force.png" alt="Force">
+		<img src="../img/persos/force.png" alt="Force">
 		<span class="super-force">Super Force</span>
 	</section>
-	<?php include('footer.php') ?>
-</body>
-</html>
+	

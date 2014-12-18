@@ -3,14 +3,12 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Nick Fury</title>
-	<link rel="stylesheet" type="text/css" href="css/personnages.css">
+	<link rel="stylesheet" type="text/css" href="../css/personnages.css">
 	<link href='http://fonts.googleapis.com/css?family=Oswald:400,300,700' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" type="text/css" href="css/nav.css">
 	<link rel="stylesheet" type="text/css" href="css/footer.css">
 </head>
 <body>
-
-	<?php include('navigation.php') ?>
 	
 	<section class="nick-fury">
 		<h2>Nick Fury</h2>
@@ -22,11 +20,8 @@
 		<p>Quitte à flirter avec la légalité,</p>
 		<p>et à rassembler des héros aux tempéraments explosifs.</p>
 
-		<img src="img/persos/strategie.png" alt="Stratégie">
+		<img src="../img/persos/strategie.png" alt="Stratégie">
 		<span class="strategie">Stratégie</span>
 	</section>
 	
-	<?php include('footer.php') ?>
-
-</body>
-</html>
+	
