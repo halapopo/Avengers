@@ -31,6 +31,7 @@ a {
     text-decoration: none;
     color: #fff;
     font-family:'Righteous', cursive;
+    letter-spacing: 2px;
 }
 
 a:hover {
