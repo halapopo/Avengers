@@ -30,6 +30,10 @@ section article ul li a {
 	text-align: center;
 }
 
+section article ul li a h3{
+	font-weight: 300;
+}
+
 section article ul li img {
 	border:  3px solid #fff;
 	border-radius: 50%;	
