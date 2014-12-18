@@ -37,16 +37,16 @@
 	</section>
 	<br/>
 	<section id="personnages">
-        <div id=""><?php include('personnages pages/iron-man.php');?></div>
-        <div id=""><?php include('personnages pages/captain-america.php');?></div>
-        <div id=""><?php include('personnages pages/hulk.php');?></div>
-        <div id=""><?php include('personnages pages/thor.php');?></div>
-        <div id=""><?php include('personnages pages/nick-fury.php');?></div>
-        <div id=""><?php include('personnages pages/hawk-eye.php');?></div>
-        <div id=""><?php include('personnages pages/black-widow.php');?></div>
-        <div id=""><?php include('personnages pages/scarlet-witch.php');?></div>
-        <div id=""><?php include('personnages pages/vif-argent.php');?></div>
-        <div id=""><?php include('personnages pages/ultron.php');?></div>
+        <div id="iron"><?php include('personnages pages/iron-man.php');?></div>
+        <div id="captain"><?php include('personnages pages/captain-america.php');?></div>
+        <div id="hulk"><?php include('personnages pages/hulk.php');?></div>
+        <div id="thor"><?php include('personnages pages/thor.php');?></div>
+        <div id="fury"><?php include('personnages pages/nick-fury.php');?></div>
+        <div id="hawk"><?php include('personnages pages/hawk-eye.php');?></div>
+        <div id="black"><?php include('personnages pages/black-widow.php');?></div>
+        <div id="scarlet"><?php include('personnages pages/scarlet-witch.php');?></div>
+        <div id="vif"><?php include('personnages pages/vif-argent.php');?></div>
+        <div id="ultron"><?php include('personnages pages/ultron.php');?></div>
 	</section>
 	</div><!-- fin container -->
 </body>
