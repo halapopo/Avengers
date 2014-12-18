@@ -43,7 +43,7 @@
         <div class=""><?php include('personnages pages/thor.php');?></div>
         <div class=""><?php include('personnages pages/nick-fury.php');?></div>
         <div class=""><?php include('personnages pages/hawk-eye.php');?></div>
-        <div class=""><?php include('personnages pages/black-window.php');?></div>
+        <div class=""><?php include('personnages pages/black-widow.php');?></div>
         <div class=""><?php include('personnages pages/scarlet-witch.php');?></div>
         <div class=""><?php include('personnages pages/vif-argent.php');?></div>
         <div class=""><?php include('personnages pages/ultron.php');?></div>
