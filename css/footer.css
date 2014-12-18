@@ -1,0 +1,133 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+body {
+    line-height: 1;
+}
+ol, ul {
+    list-style: none;
+}
+blockquote, q {
+    quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: '';
+    content: none;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+
+
+
+
+.footer {
+    background:rgba(65, 2, 2, 0.9);
+    color: #FFF;
+    width: 100%;
+    height: 95px;
+    border-top: 1px solid #fff;
+    position:absolute;
+    bottom:0px;
+    z-index: 10;
+    box-shadow: 0px 0px 15px #fff;
+}
+
+.term ul li {
+    display: inline-block;
+    margin:5px 10px 10px 5px;
+    vertical-align: center;
+}
+
+.term ul li:first-child {
+    padding-left: 10px;
+}
+
+.term ul{
+    margin-left: 120px;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+    font-family:'Righteous', cursive;
+}
+
+a:hover {
+    text-decoration: none;
+    color:#8A0900;
+
+
+}
+
+h3 {
+    float: right;
+}
+
+.term{
+    float: left;
+    margin: 30px 10px 30px 10px;
+    position:relative;
+}
+
+.term a img{
+    height:50px;
+    width:100px;
+    position:absolute;
+    top: -15px;
+    left: 0px;
+}
+
+
+
+
+
+
+.social {
+    float: right;
+    margin: 20px 10px 0px 0px ;
+}
+
+.social ul {
+    margin-right: 20px;
+}
+.social ul li {
+    display: inline-block;
+    margin-right: 15px;
+
+}
+
+.social ul li a img{
+    width:50px;
+    height:50px;
+}
