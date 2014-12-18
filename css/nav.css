@@ -61,9 +61,16 @@ header nav ul li:not(#logoNav) a:hover{
 	font-size: 0.8em;
 	border-bottom: 3px solid #fff;
 	padding-bottom: 10px;
-    transition: All 0.5s ease;
+    transition: All 0.8s ease;
    
 }
 
+#logoNav a img:hover{
+	transform: rotate(360deg);
+	-webkit-transform: rotate(360deg);
+	transition: All 0.8s ease;
+	border: 2px solid;
+    border-radius: 25px;
+}
 
 
